@@ -1,0 +1,4 @@
+To test this, node.js must be installed along with the project folder. 
+The "CurrencyConversionAPI.js" file should be run in the cmd prompt using 'node CurrencyConversionAPI.js'. 
+Then the url 'http://localhost:8080/?source=usd&target=egp' 
+typed in the browser with the desired currencies.
